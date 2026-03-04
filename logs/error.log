@@ -1,0 +1,117 @@
+[2025-10-07T06:42:06.260Z] ERROR: ❌ Mailgun connection failed: Unauthorized
+[2025-10-07T06:42:06.413Z] ERROR: ❌ Database connection failed: Access denied for user 'dbadmin'@'45.116.149.26' (using password: YES)
+[2025-10-07T06:42:55.701Z] ERROR: ❌ Database connection failed: Access denied for user 'dbadmin'@'45.116.149.26' (using password: YES)
+[2025-10-07T06:42:56.573Z] ERROR: ❌ Mailgun connection failed: Unauthorized
+[2025-10-07T06:44:18.695Z] ERROR: ❌ Database connection failed: Access denied for user 'dbadmin'@'45.116.149.26' (using password: YES)
+[2025-10-07T06:45:15.060Z] ERROR: ❌ Database connection failed: Access denied for user 'dbadmin'@'45.116.149.26' (using password: YES)
+[2025-10-07T06:46:19.613Z] ERROR: ❌ Database connection failed: Access denied for user 'dbadmin'@'45.116.149.26' (using password: YES)
+[2025-10-07T06:47:05.456Z] ERROR: ❌ Database connection failed: Access denied for user 'dbadmin'@'45.116.149.26' (using password: YES)
+[2025-10-07T06:47:05.460Z] ERROR: ❌ Database test query failed
+[2025-10-07T06:47:05.461Z] ERROR: 🧾 Error Message: Access denied for user 'dbadmin'@'45.116.149.26' (using password: YES)
+[2025-10-07T06:47:05.462Z] ERROR: 📍 Host: dd-rds-production-final-v1.czawuikwk0ob.ap-south-1.rds.amazonaws.com
+[2025-10-07T06:47:05.463Z] ERROR: 👤 User: dbadmin
+[2025-10-07T06:47:05.464Z] ERROR: 🔐 Password starts with: 123***
+[2025-10-07T06:47:05.465Z] ERROR: 📚 Database: prod_dozendiamonds
+[2025-10-07T06:51:04.239Z] ERROR: ❌ Database connection failed: Access denied for user 'dbadmin'@'45.116.149.26' (using password: YES)
+[2025-10-07T06:51:04.242Z] ERROR: 📍 Host: dd-rds-production-final-v1.czawuikwk0ob.ap-south-1.rds.amazonaws.com
+[2025-10-07T06:51:04.242Z] ERROR: 👤 User: dbadmin
+[2025-10-07T06:51:04.243Z] ERROR: 📚 Database: prod_dozendiamonds
+[2025-10-07T06:51:04.244Z] ERROR: ❌ Database test query failed
+[2025-10-07T06:51:04.245Z] ERROR: 🧾 Error Message: Access denied for user 'dbadmin'@'45.116.149.26' (using password: YES)
+[2025-10-07T06:51:04.246Z] ERROR: 📍 Host: dd-rds-production-final-v1.czawuikwk0ob.ap-south-1.rds.amazonaws.com
+[2025-10-07T06:51:04.246Z] ERROR: 👤 User: dbadmin
+[2025-10-07T06:51:04.247Z] ERROR: 🔐 Password starts with: 123***
+[2025-10-07T06:51:04.248Z] ERROR: 📚 Database: prod_dozendiamonds
+[2025-10-07T06:55:24.922Z] ERROR: ❌ Database test query failed
+[2025-10-07T06:55:24.923Z] ERROR: 🧾 Error Message: You have tried to call .then(), .catch(), or invoked await on the result of query that is not a promise, which is a programming error. Try calling con.promise().query(), or require('mysql2/promise') instead of 'mysql2' for a promise-compatible version of the query interface. To learn how to use async/await or Promises check out documentation at https://sidorares.github.io/node-mysql2/docs#using-promise-wrapper, or the mysql2 documentation at https://sidorares.github.io/node-mysql2/docs/documentation/promise-wrapper
+[2025-10-07T06:55:24.923Z] ERROR: 📍 Host: dd-rds-production-final-v1.czawuikwk0ob.ap-south-1.rds.amazonaws.com
+[2025-10-07T06:55:24.924Z] ERROR: 👤 User: dbadmin
+[2025-10-07T06:55:24.924Z] ERROR: 🔐 Password starts with: 123***
+[2025-10-07T06:55:24.925Z] ERROR: 📚 Database: prod_dozendiamonds
+[2025-10-07T06:55:24.925Z] ERROR: ❌ Database connection failed: You have tried to call .then(), .catch(), or invoked await on the result of query that is not a promise, which is a programming error. Try calling con.promise().query(), or require('mysql2/promise') instead of 'mysql2' for a promise-compatible version of the query interface. To learn how to use async/await or Promises check out documentation at https://sidorares.github.io/node-mysql2/docs#using-promise-wrapper, or the mysql2 documentation at https://sidorares.github.io/node-mysql2/docs/documentation/promise-wrapper
+[2025-10-07T06:55:24.926Z] ERROR: 📍 Host: dd-rds-production-final-v1.czawuikwk0ob.ap-south-1.rds.amazonaws.com
+[2025-10-07T06:55:24.926Z] ERROR: 👤 User: dbadmin
+[2025-10-07T06:55:24.926Z] ERROR: 📚 Database: prod_dozendiamonds
+[2025-10-07T06:57:47.401Z] ERROR: ❌ Database connection failed: Access denied for user 'dbadmin'@'45.116.149.26' (using password: YES)
+[2025-10-07T06:57:47.403Z] ERROR: 📍 Host: dd-rds-production-final-v1.czawuikwk0ob.ap-south-1.rds.amazonaws.com
+[2025-10-07T06:57:47.404Z] ERROR: 👤 User: dbadmin
+[2025-10-07T06:57:47.405Z] ERROR: 🔐 Password starts with: 123***
+[2025-10-07T06:57:47.406Z] ERROR: 📚 Database: prod_dozendiamonds
+[2025-10-07T06:57:47.409Z] ERROR: ❌ Database connection failed: Access denied for user 'dbadmin'@'45.116.149.26' (using password: YES)
+[2025-10-07T06:57:47.410Z] ERROR: 📍 Host: dd-rds-production-final-v1.czawuikwk0ob.ap-south-1.rds.amazonaws.com
+[2025-10-07T06:57:47.411Z] ERROR: 👤 User: dbadmin
+[2025-10-07T06:57:47.411Z] ERROR: 📚 Database: prod_dozendiamonds
+[2025-10-07T06:59:07.678Z] ERROR: ❌ Database connection failed: Access denied for user 'dbadmin'@'45.116.149.26' (using password: YES)
+[2025-10-07T06:59:07.679Z] ERROR: 📍 Host: dd-rds-production-final-v1.czawuikwk0ob.ap-south-1.rds.amazonaws.com
+[2025-10-07T06:59:07.680Z] ERROR: 👤 User: dbadmin
+[2025-10-07T06:59:07.680Z] ERROR: 🔐 Password starts with: 123***
+[2025-10-07T06:59:07.681Z] ERROR: 📚 Database: prod_dozendiamonds
+[2025-10-07T06:59:07.682Z] ERROR: ❌ Database connection failed: Access denied for user 'dbadmin'@'45.116.149.26' (using password: YES)
+[2025-10-07T06:59:07.682Z] ERROR: 📍 Host: dd-rds-production-final-v1.czawuikwk0ob.ap-south-1.rds.amazonaws.com
+[2025-10-07T06:59:07.683Z] ERROR: 👤 User: dbadmin
+[2025-10-07T06:59:07.683Z] ERROR: 📚 Database: prod_dozendiamonds
+[2025-10-07T08:08:42.862Z] ERROR: ❌ Failed to send webinar email: read ECONNRESET
+[2025-10-10T05:57:34.939Z] ERROR: ❌ Failed to send external email to : Bad Request
+[2025-10-13T11:57:17.133Z] ERROR: ❌ Webinar single send failed: read ECONNRESET
+[2025-10-13T12:14:16.026Z] ERROR: ❌ Webinar single send failed: read ECONNRESET
+[2025-10-15T06:33:41.469Z] ERROR: ❌ STM & Kosh single send failed: read ECONNRESET
+[2025-10-17T12:47:31.507Z] ERROR: ❌ Failed for [object Object]: ECONNRESET
+[2025-10-17T12:47:31.511Z] ERROR: ❌ Failed for [object Object]: ECONNRESET
+[2025-10-17T12:47:31.519Z] ERROR: ❌ Failed for [object Object]: ECONNRESET
+[2025-10-17T12:47:31.523Z] ERROR: ❌ Failed for [object Object]: ECONNRESET
+[2025-10-17T12:47:31.526Z] ERROR: ❌ Failed for [object Object]: ECONNRESET
+[2025-10-17T12:47:31.546Z] ERROR: ❌ Failed for [object Object]: ENOTFOUND
+[2025-10-17T12:47:32.827Z] ERROR: ❌ Failed for [object Object]: ENOTFOUND
+[2025-10-17T12:47:33.015Z] ERROR: ❌ Failed for [object Object]: ENOTFOUND
+[2025-10-17T12:47:33.542Z] ERROR: ❌ Failed for [object Object]: ENOTFOUND
+[2025-10-17T12:47:33.750Z] ERROR: ❌ Failed for [object Object]: ENOTFOUND
+[2025-10-17T12:47:34.645Z] ERROR: ❌ Failed for [object Object]: ENOTFOUND
+[2025-10-17T12:47:34.822Z] ERROR: ❌ Failed for [object Object]: ENOTFOUND
+[2025-10-17T12:47:35.246Z] ERROR: ❌ Failed for [object Object]: ENOTFOUND
+[2025-10-17T12:47:35.411Z] ERROR: ❌ Failed for [object Object]: ENOTFOUND
+[2025-10-17T12:47:35.497Z] ERROR: ❌ Failed for [object Object]: ENOTFOUND
+[2025-10-17T12:47:35.595Z] ERROR: ❌ Failed for [object Object]: ENOTFOUND
+[2025-10-17T12:47:35.645Z] ERROR: ❌ Failed for [object Object]: ENOTFOUND
+[2025-10-22T05:25:27.833Z] ERROR: ❌ STM & Kosh bulk send failed: read ECONNRESET
+[2025-10-27T06:13:11.808Z] ERROR: ❌ Webinar bulk send failed: read ECONNRESET
+[2025-10-27T06:29:53.043Z] ERROR: ❌ Webinar single send failed: read ECONNRESET
+[2025-11-11T05:04:50.536Z] ERROR: ❌ Webinar single send failed: read ECONNRESET
+[2025-11-21T05:20:16.939Z] ERROR: ❌ Database connection failed: getaddrinfo ENOTFOUND dd-rds-production-final-v1.czawuikwk0ob.ap-south-1.rds.amazonaws.com
+[2025-11-21T05:20:16.959Z] ERROR: 📍 Host: dd-rds-production-final-v1.czawuikwk0ob.ap-south-1.rds.amazonaws.com
+[2025-11-21T05:20:16.962Z] ERROR: 👤 User: dbadmin
+[2025-11-21T05:20:16.966Z] ERROR: 🔐 Password starts with: 123***
+[2025-11-21T05:20:16.978Z] ERROR: 📚 Database: prod_dozendiamonds
+[2025-11-21T05:20:16.989Z] ERROR: ❌ Database connection failed: getaddrinfo ENOTFOUND dd-rds-production-final-v1.czawuikwk0ob.ap-south-1.rds.amazonaws.com
+[2025-11-21T05:20:16.997Z] ERROR: 📍 Host: dd-rds-production-final-v1.czawuikwk0ob.ap-south-1.rds.amazonaws.com
+[2025-11-21T05:20:16.999Z] ERROR: 👤 User: dbadmin
+[2025-11-21T05:20:17.001Z] ERROR: 📚 Database: prod_dozendiamonds
+[2025-11-21T05:20:17.034Z] ERROR: ❌ Mailgun connection failed: ENOTFOUND
+[2025-11-21T05:20:45.802Z] ERROR: ❌ Database connection failed: getaddrinfo ENOTFOUND dd-rds-production-final-v1.czawuikwk0ob.ap-south-1.rds.amazonaws.com
+[2025-11-21T05:20:45.812Z] ERROR: 📍 Host: dd-rds-production-final-v1.czawuikwk0ob.ap-south-1.rds.amazonaws.com
+[2025-11-21T05:20:45.814Z] ERROR: 👤 User: dbadmin
+[2025-11-21T05:20:45.818Z] ERROR: 🔐 Password starts with: 123***
+[2025-11-21T05:20:45.818Z] ERROR: 📚 Database: prod_dozendiamonds
+[2025-11-21T05:20:45.820Z] ERROR: ❌ Database connection failed: getaddrinfo ENOTFOUND dd-rds-production-final-v1.czawuikwk0ob.ap-south-1.rds.amazonaws.com
+[2025-11-21T05:20:45.823Z] ERROR: 📍 Host: dd-rds-production-final-v1.czawuikwk0ob.ap-south-1.rds.amazonaws.com
+[2025-11-21T05:20:45.823Z] ERROR: 👤 User: dbadmin
+[2025-11-21T05:20:45.824Z] ERROR: 📚 Database: prod_dozendiamonds
+[2025-11-21T05:20:45.831Z] ERROR: ❌ Mailgun connection failed: ENOTFOUND
+[2025-12-01T07:42:48.509Z] ERROR: ❌ Webinar bulk send failed: read ECONNRESET
+[2025-12-24T04:59:35.717Z] ERROR: ❌ Database connection failed: connect ETIMEDOUT
+[2025-12-24T04:59:35.722Z] ERROR: 📍 Host: dd-rds-production-final-v1.czawuikwk0ob.ap-south-1.rds.amazonaws.com
+[2025-12-24T04:59:35.768Z] ERROR: 👤 User: dbadmin
+[2025-12-24T04:59:35.769Z] ERROR: 🔐 Password starts with: 123***
+[2025-12-24T04:59:35.770Z] ERROR: 📚 Database: prod_dozendiamonds
+[2025-12-24T04:59:35.838Z] ERROR: ❌ Database connection failed: connect ETIMEDOUT
+[2025-12-24T04:59:35.839Z] ERROR: 📍 Host: dd-rds-production-final-v1.czawuikwk0ob.ap-south-1.rds.amazonaws.com
+[2025-12-24T04:59:35.839Z] ERROR: 👤 User: dbadmin
+[2025-12-24T04:59:35.840Z] ERROR: 📚 Database: prod_dozendiamonds
+[2026-01-02T05:19:43.934Z] ERROR: ❌ Failed for [object Object]: ECONNRESET
+[2026-01-02T05:19:43.993Z] ERROR: ❌ Failed for [object Object]: ECONNRESET
+[2026-01-02T05:19:44.001Z] ERROR: ❌ Failed for [object Object]: ECONNRESET
+[2026-01-02T05:19:44.010Z] ERROR: ❌ Failed for [object Object]: ECONNRESET
+[2026-01-02T05:19:44.047Z] ERROR: ❌ Failed for [object Object]: ECONNRESET
+[2026-01-02T05:19:55.163Z] ERROR: ❌ Failed for [object Object]: ENOTFOUND
+[2026-01-02T05:19:55.168Z] ERROR: ❌ Failed for [object Object]: ENOTFOUND
+[2026-01-30T05:44:04.028Z] ERROR: ❌ STM & Kosh bulk send failed: Unknown column 'id' in 'field list'
+[2026-01-30T05:44:34.516Z] ERROR: ❌ STM & Kosh bulk send failed: Unknown column 'id' in 'field list'
